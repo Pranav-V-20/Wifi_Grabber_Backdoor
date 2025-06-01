@@ -58,6 +58,8 @@ auto-py-to-exe
 
 Use "One file" and "Window based" options to create a compact executable.
 
+> I converted the python script to `Mario.exe`.
+
 ---
 
 ### 🔐 How to Protect Yourself
